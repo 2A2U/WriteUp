@@ -19,7 +19,7 @@ Disitulah Deno masuk daftar hitam, dengan sedikit tekad dan pengetahuan yang min
 kemudian dengan petunjuk kedua yang diberikan, saya menggunakan teknik fungsi anonim agar lebih mudah (menurut saya). Fungsi anonim bisa dibuat dengan menulis 
 
 ```jsx
-({})["constructor"]["constructor"](https://www.notion.so/%22code%22)().
+({})["constructor"]["constructor"]("Code")().
 ```
 
 () pada akhir code untuk memanggil fungsi anonim.
@@ -47,7 +47,7 @@ Code di atas dapat berhasil. karena menurut saya jawaban saya terlalu panjang, s
 dan
 
 ```jsx
-[][constructor][constructor](return fetch(\\file:///ctf/flag\x2etxt\)\\x2ethen((a)=>a\\x2etext()\\x2ethen((b )=>konsol\\x2elog(b))))()
+[][constructor][constructor](return fetch(\\file:///ctf/flag\x2etxt\)\\x2ethen((a)=>a\\x2etext()\\x2ethen((b )=>console\\x2elog(b))))()
 ```
 
 terima kasih kepada mas Dimas yang telah membantu saya.
