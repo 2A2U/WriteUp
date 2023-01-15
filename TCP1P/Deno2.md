@@ -24,8 +24,7 @@ kemudian dengan petunjuk kedua yang diberikan, saya menggunakan teknik fungsi an
 
 () pada akhir code untuk memanggil fungsi anonim.
 
-Dalam tantangan ini, kita tidak bisa menggunakan "" dan '', jadi kita menggantinya dengan ` (backtick). Untuk payload pertama saya buat seperti ini :
-
+Dalam tantangan ini, kita tidak bisa menggunakan "" dan '', jadi kita menggantinya dengan (backtick). Untuk payload pertama saya buat seperti ini :
 ```jsx
 ({})[konstruktor][konstruktor](ini[\\De\ + \\no\][\\run\]({cmd: [\\ls\]}) )()
 ```
@@ -55,10 +54,5 @@ terima kasih kepada mas Dimas yang telah membantu saya.
 
 ### Referensi yang mungkin bisa membantu
 
-- 
-
 [https://www.youtube.com/watch?v=pzh6--](https://www.youtube.com/watch?v=pzh6--)
-
-- 
-
 [Escaping nodejs vm](http://Gist.github.com/jcreedcmu/4f6e6d4a649405a9c86bb076905696af)
