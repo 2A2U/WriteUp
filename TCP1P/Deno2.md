@@ -19,7 +19,7 @@ Disitulah Deno masuk daftar hitam, dengan sedikit tekad dan pengetahuan yang min
 kemudian dengan petunjuk kedua yang diberikan, saya menggunakan teknik fungsi anonim agar lebih mudah (menurut saya). Fungsi anonim bisa dibuat dengan menulis 
 
 ```jsx
-({})["constructor"]["constructor"]("Code")().
+({})["constructor"]["constructor"]("Code")()
 ```
 
 () pada akhir code untuk memanggil fungsi anonim.
