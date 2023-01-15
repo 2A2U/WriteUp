@@ -54,6 +54,6 @@ terima kasih kepada mas Dimas yang telah membantu saya.
 
 ### Referensi yang mungkin bisa membantu
 
-https://www.youtube.com/watch?v=pzh6--
+[# HackTheBox "Business CTF" - discordvm - Node.js Sandbox Escape](https://www.youtube.com/watch?v=pzh6--wIp24&t=534s)
 
-http://Gist.github.com/jcreedcmu/4f6e6d4a649405a9c86bb076905696af
+[Escaping nodejs vm](http://Gist.github.com/jcreedcmu/4f6e6d4a649405a9c86bb076905696af)
