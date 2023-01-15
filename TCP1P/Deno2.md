@@ -26,7 +26,7 @@ kemudian dengan petunjuk kedua yang diberikan, saya menggunakan teknik fungsi an
 
 Dalam tantangan ini, kita tidak bisa menggunakan "" dan '', jadi kita menggantinya dengan (backtick). Untuk payload pertama saya buat seperti ini :
 ```jsx
-({})[construktor][construktor](this[\\De\ + \\no\][\\run\]({cmd: [\\ls\]}) )()
+({})[constructor][constructor](this[\\De\ + \\no\][\\run\]({cmd: [\\ls\]}) )()
 ```
 
 code di atask ternyata tidak berhasil, karena saya yakin ini harus berhasil. Saya mencoba kode di deno1 dan berhasil. Hmmm kemudian saya cek file dockernya ternyata deno.run tidak boleh, jadi saya ganti dengan membaca langsung filenya seperti yang saya tulis di deno1 yaitu dengan deno.readfilesync(). kodenya akan seperti ini:
