@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Web_Fetcher ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca97cf7569cf5921",
+  "active": "c38a970dda46fb78",
   "lastOpenFiles": [
     "TCP1P/README.MD",
     "TCP1P/Deno2.md",
