@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP1P/Web Fetcher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "787746dc98fb29e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "562eff08f2ac1440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "TCP1P/Pybox2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP1P/Web Fetcher.md",
+                "file": "TCP1P/Pybox2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP1P/Web Fetcher.md",
+                "file": "TCP1P/Pybox2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP1P/Web Fetcher.md"
+                "file": "TCP1P/Pybox2.md"
               }
             }
           }
@@ -166,9 +148,9 @@
   },
   "active": "781b4ada5ef70a05",
   "lastOpenFiles": [
+    "TCP1P/Deno2.md",
     "TCP1P/Pybox2.md",
     "TCP1P/Web Fetcher.md",
-    "TCP1P/Deno2.md",
     "TCP1P/README.MD",
     "Pasted image 20230116212638.png",
     "Lab Test 2 Malware.md",
