@@ -31,7 +31,7 @@ menurut code yang di atas kita akan mempunyai folder `/ctf` sebagai working dire
 
 Maka dari itu karena topic nya merupakan LFI kita harus mencari tahu bagaimana caranya untuk membaca environment variable. Dengan mencari di google kita bisa mendapat info tentang environment variable dengan membaca `/proc/self/environ` yang dimana file itu berupa list dari semua environment variable di mesin linux. 
 
-untuk fect nya biasanya kita bisa menggunakan cara `file://` mari kita coba payload pertama berupa 
+untuk fecth nya biasanya kita bisa menggunakan cara `file://` mari kita coba payload pertama berupa 
 ```bash 
 file:///etc/passwd
 ```
