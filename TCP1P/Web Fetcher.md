@@ -1,5 +1,4 @@
-<H2>Topic: LFI<H2>
-
+<H2>Topic: LFI</H2>
 Tools: browser, text viewer
 
 Untuk meyelesaikan ini kita harus mengerti tata folder yang di dalam server. maka dari itu mari kita lihat code yang di dalam file DockerFile sebagai contoh. 
