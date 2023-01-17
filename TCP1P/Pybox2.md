@@ -55,4 +55,5 @@ dengan output:
 TCP1P{******************************_get__import__}
 ```
 note:* hanya untuk menutupi full flag
+
 opini: menurut saya gunanya `__self__` adalah untuk meng-akses class yang ada di dalam scope mirip penggunaan `this` dalam javascript
