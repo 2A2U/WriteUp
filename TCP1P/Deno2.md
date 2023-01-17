@@ -14,7 +14,7 @@ object[`function`]
 
 Disini kita sudah tahu cara mem-bypass pemanggilan fungsi tapi bagaimana dengan pemanggilan deno?.
 
-Disitulah Deno masuk daftar hitam, dengan sedikit tekad dan pengetahuan yang minim saya bertanya kepada Mr. Google. Setelah berselancar di Google saya menemukan sebuah artikel yang menyatakan bahwa kita dapat memanggil objek dengan "ini" terlebih dahulu, misalnya this.deno.run().
+Disitulah Deno masuk daftar hitam, dengan sedikit tekad dan pengetahuan yang minim saya bertanya kepada Mr. Google. Setelah berselancar di Google saya menemukan sebuah artikel yang menyatakan bahwa kita dapat memanggil objek dengan `this` terlebih dahulu, misalnya this.deno.run().
 
 kemudian dengan petunjuk kedua yang diberikan, saya menggunakan teknik fungsi anonim agar lebih mudah (menurut saya). Fungsi anonim bisa dibuat dengan menulis 
 
