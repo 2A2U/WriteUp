@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6dcd1269c4432b",
+        "id": "bb2065e0f2233d33",
         "type": "tabs",
         "children": [
           {
-            "id": "d98dbc2b6bbd6722",
+            "id": "2adefc23ddcbfbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98dbc2b6bbd6722",
+  "active": "2adefc23ddcbfbcb",
   "lastOpenFiles": [
-    "TryHackMe/Images/Pasted image 20230201200224.png",
+    "[../Images/Pasted image 20230201211509.png.md",
     "TryHackMe/Conti.md",
+    "Images/Pasted image 20230201211023.png.md",
+    "TryHackMe/Images/Pasted image 20230201200224.png",
     "TCP1P/Pybox2.md",
     "KnightCTF 2023/Hello.md",
     "KnightCTF 2023/GetMe.md",
     "KnightCTF 2023/Dirt.md",
     "KnightCTF 2023/Images/Pasted image 20230121012043.png",
-    "KnightCTF 2023/Images/Pasted image 20230121191438.png",
-    "KnightCTF 2023/Images/Pasted image 20230121191157.png",
-    "KnightCTF 2023/Images/Pasted image 20230121190815.png"
+    "KnightCTF 2023/Images/Pasted image 20230121191438.png"
   ]
 }
