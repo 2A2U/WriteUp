@@ -49,7 +49,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "KnightCTF 2023/Pasted image 20230121191438.png"
+                "file": "KnightCTF 2023/Images/Pasted image 20230121191438.png"
               }
             }
           },
@@ -57,11 +57,9 @@
             "id": "0c25f2eca4ba0c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "KnightCTF 2023/Hello.md",
-                "mode": "source",
-                "source": false
+                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png"
               }
             }
           }
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnightCTF 2023/Hello.md",
+                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnightCTF 2023/Hello.md",
+                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnightCTF 2023/Hello.md"
+                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png"
               }
             }
           }
@@ -193,15 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c25f2eca4ba0c36",
+  "active": "781b4ada5ef70a05",
   "lastOpenFiles": [
+    "KnightCTF 2023/Hello.md",
     "KnightCTF 2023/GetMe.md",
     "KnightCTF 2023/Dirt.md",
-    "KnightCTF 2023/Pasted image 20230121012043.png",
-    "KnightCTF 2023/Pasted image 20230121191438.png",
-    "KnightCTF 2023/Pasted image 20230121191157.png",
-    "KnightCTF 2023/Pasted image 20230121190815.png",
-    "KnightCTF 2023/Hello.md",
+    "KnightCTF 2023/Images/Pasted image 20230121012043.png",
+    "KnightCTF 2023/Images/Pasted image 20230121191438.png",
+    "KnightCTF 2023/Images/Pasted image 20230121191157.png",
+    "KnightCTF 2023/Images/Pasted image 20230121190815.png",
     "TCP1P/Pybox2.md",
     "TCP1P/Web Fetcher.md",
     "TCP1P/Deno2.md"
