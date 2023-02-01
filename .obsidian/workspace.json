@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca97cf7569cf5921",
+            "id": "d98dbc2b6bbd6722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP1P/Pybox2.md",
+                "file": "TryHackMe/Conti.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "97da564fc2eb792a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnightCTF 2023/GetMe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb471598a727b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnightCTF 2023/Dirt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e6816f3da1996b2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "KnightCTF 2023/Images/Pasted image 20230121191438.png"
-              }
-            }
-          },
-          {
-            "id": "0c25f2eca4ba0c36",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png",
+                "file": "TryHackMe/Conti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png",
+                "file": "TryHackMe/Conti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnightCTF 2023/Images/Pasted image 20230121011033.png"
+                "file": "TryHackMe/Conti.md"
               }
             }
           }
@@ -191,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "781b4ada5ef70a05",
+  "active": "d98dbc2b6bbd6722",
   "lastOpenFiles": [
+    "TryHackMe/Images/Pasted image 20230201200224.png",
+    "TryHackMe/Conti.md",
+    "TCP1P/Pybox2.md",
     "KnightCTF 2023/Hello.md",
     "KnightCTF 2023/GetMe.md",
     "KnightCTF 2023/Dirt.md",
     "KnightCTF 2023/Images/Pasted image 20230121012043.png",
     "KnightCTF 2023/Images/Pasted image 20230121191438.png",
     "KnightCTF 2023/Images/Pasted image 20230121191157.png",
-    "KnightCTF 2023/Images/Pasted image 20230121190815.png",
-    "TCP1P/Pybox2.md",
-    "TCP1P/Web Fetcher.md",
-    "TCP1P/Deno2.md"
+    "KnightCTF 2023/Images/Pasted image 20230121190815.png"
   ]
 }
