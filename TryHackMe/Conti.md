@@ -7,7 +7,7 @@ we can use "index=main | stats count by Image" as the search query to find all v
 <H4>What is the Sysmon event ID for the related file creation event?</H4>
 using "C:\\\\Users\\\\Administrator\\\\Documents\\cmd.exe" as search query we can search for any hit on that command line. after that we need to find the oldest record of that hit. that record will contain this 
 
-![[../Images/Pasted image 20230201211509.png]]
+![[/../Images/Pasted image 20230201211509.png]]
 <H4>Can you find the MD5 hash of the ransomware?</H4>
 clicking the record above the record from the previous question we can see the MD5 hash of the cmd.exe
 
