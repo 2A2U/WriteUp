@@ -2,7 +2,7 @@
 <H4>Can you identify the location of the ransomware?</H4>
 we can use "index=main | stats count by Image" as the search query to find all values in the Image field, searching all the list i found a suspicious file that should not be there.
 
-![photo1](/TryHackMe/Images/Pasted image 20230201211023.png)
+![photo1](Images/Pasted image 20230201211023.png)
 
 <H4>What is the Sysmon event ID for the related file creation event?</H4>
 using "C:\\\\Users\\\\Administrator\\\\Documents\\cmd.exe" as search query we can search for any hit on that command line. after that we need to find the oldest record of that hit. that record will contain this 
