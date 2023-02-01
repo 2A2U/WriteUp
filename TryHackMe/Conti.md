@@ -11,7 +11,7 @@ using "C:\\\\Users\\\\Administrator\\\\Documents\\cmd.exe" as search query we ca
 <H4>Can you find the MD5 hash of the ransomware?</H4>
 clicking the record above the record from the previous question we can see the MD5 hash of the cmd.exe
 
-![[Image_3](Images%2FPasted%20image%2020230201211640.png)
+![Image_3](Images%2FPasted%20image%2020230201211640.png)
 <H4>What file was saved to multiple folder locations?</H4>
 the answer is readme.txt, becasue from my experience usually malware that encrypt data will leave a readme.txt file in every folder that have been encrypted.
 <H4>What was the command the attacker used to add a new user to the compromised system?</H4>
