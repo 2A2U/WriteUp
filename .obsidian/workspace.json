@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2065e0f2233d33",
+        "id": "bb6692613e7cedb9",
         "type": "tabs",
         "children": [
           {
-            "id": "2adefc23ddcbfbcb",
+            "id": "b3941375780e00fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2adefc23ddcbfbcb",
+  "active": "b3941375780e00fb",
   "lastOpenFiles": [
-    "[../Images/Pasted image 20230201211509.png.md",
-    "TryHackMe/Conti.md",
-    "Images/Pasted image 20230201211023.png.md",
+    "TryHackMe/Images/Pasted image 20230201201039.png",
+    "TryHackMe/Images/Pasted image 20230201211640.png",
+    "TryHackMe/Images/Pasted image 20230201211509.png",
+    "TryHackMe/Images/Pasted image 20230201211023.png",
+    "TryHackMe/Images/Pasted image 20230201210425.png",
+    "TryHackMe/Images/Pasted image 20230201205807.png",
+    "TryHackMe/Images/Pasted image 20230201203700.png",
     "TryHackMe/Images/Pasted image 20230201200224.png",
-    "TCP1P/Pybox2.md",
-    "KnightCTF 2023/Hello.md",
-    "KnightCTF 2023/GetMe.md",
-    "KnightCTF 2023/Dirt.md",
-    "KnightCTF 2023/Images/Pasted image 20230121012043.png",
-    "KnightCTF 2023/Images/Pasted image 20230121191438.png"
+    "Images%2FPasted image 20230201211023.png.md",
+    "TryHackMe/Conti.md"
   ]
 }
