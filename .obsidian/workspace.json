@@ -18,8 +18,55 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97da564fc2eb792a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnightCTF 2023/GetMe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb471598a727b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnightCTF 2023/Dirt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e6816f3da1996b2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "KnightCTF 2023/Pasted image 20230121191438.png"
+              }
+            }
+          },
+          {
+            "id": "0c25f2eca4ba0c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnightCTF 2023/Hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP1P/Pybox2.md",
+                "file": "KnightCTF 2023/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP1P/Pybox2.md",
+                "file": "KnightCTF 2023/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP1P/Pybox2.md"
+                "file": "KnightCTF 2023/Hello.md"
               }
             }
           }
@@ -146,17 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca97cf7569cf5921",
+  "active": "0c25f2eca4ba0c36",
   "lastOpenFiles": [
-    "TCP1P/Web Fetcher.md",
+    "KnightCTF 2023/GetMe.md",
+    "KnightCTF 2023/Dirt.md",
+    "KnightCTF 2023/Pasted image 20230121012043.png",
+    "KnightCTF 2023/Pasted image 20230121191438.png",
+    "KnightCTF 2023/Pasted image 20230121191157.png",
+    "KnightCTF 2023/Pasted image 20230121190815.png",
+    "KnightCTF 2023/Hello.md",
     "TCP1P/Pybox2.md",
-    "TCP1P/Deno2.md",
-    "TCP1P/README.MD",
-    "Pasted image 20230116212638.png",
-    "Lab Test 2 Malware.md",
-    "Pasted image 20230116211549.png",
-    "Pasted image 20230116212823.png",
-    "Pasted image 20230116220036.png",
-    "README.md"
+    "TCP1P/Web Fetcher.md",
+    "TCP1P/Deno2.md"
   ]
 }
