@@ -50,7 +50,7 @@ then click the "cs_uri_steam" field and look for suspecious uri
 We can use  "CommandLine" field to find the answer. we can just type in the search box "CommandLine=\*i3gfPctK1c2x.aspx\*" . This command will search for any command line that contain string "i3gfPctK1c2x.aspx" inside.
 
 ![Image_7](Images%2FPasted%20image%2020230201200224.png)
-af that we just need to show all lines and we will find this
+after that we just need to show all lines and we will find this
 ```powershell
 attrib.exe -r \\\\win-aoqkg2as2q7.bellybear.local\C$\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\i3gfPctK1c2x.aspx
 ```
