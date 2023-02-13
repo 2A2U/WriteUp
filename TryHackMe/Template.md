@@ -1,3 +1,4 @@
+# TryHackMe Templates Room
 [Template Room Link](https://tryhackme.com/room/templates)
 <H6>Introduction</H6>
 My favourite type of dog is a pug... and, you know what, Pug is my favourite templating engine too! I made this super slick application so you can play around with Pug and see how it works. Seriously, you can do so much with Pug!.
