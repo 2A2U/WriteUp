@@ -27,4 +27,5 @@ that payload will make connection back to our computer we thay render the code
 ![](Images/Template-Image-4.png)
 
 <H4>Link that can Help</H4>
+
 [SSTI Cheat Sheet](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
