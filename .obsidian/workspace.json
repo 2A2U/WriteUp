@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3941375780e00fb",
+            "id": "f9dacbfd8923480b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Conti.md",
+                "file": "TryHackMe/Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a22a49bb970bc928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57852748438d319c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Conti.md",
+                "file": "TryHackMe/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Conti.md",
+                "file": "TryHackMe/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Conti.md"
+                "file": "TryHackMe/Template.md"
               }
             }
           }
@@ -146,17 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3941375780e00fb",
+  "active": "f9dacbfd8923480b",
   "lastOpenFiles": [
-    "TryHackMe/Images/Pasted image 20230201201039.png",
-    "TryHackMe/Images/Pasted image 20230201211640.png",
-    "TryHackMe/Images/Pasted image 20230201211509.png",
-    "TryHackMe/Images/Pasted image 20230201211023.png",
-    "TryHackMe/Images/Pasted image 20230201210425.png",
+    "TryHackMe/Images/Template-Image-4.png",
+    "TryHackMe/Template.md",
+    "TryHackMe/Images/Template-Image-3.png",
+    "TryHackMe/Images/Template-Image-1.png",
     "TryHackMe/Images/Pasted image 20230201205807.png",
-    "TryHackMe/Images/Pasted image 20230201203700.png",
-    "TryHackMe/Images/Pasted image 20230201200224.png",
-    "Images%2FPasted image 20230201211023.png.md",
+    "TryHackMe/Images/Pasted image 20230201210425.png",
+    "TryHackMe/Images/Pasted image 20230201211023.png",
+    "TryHackMe/Images/Pasted image 20230201211509.png",
+    "TryHackMe/Images/Pasted image 20230201211640.png",
     "TryHackMe/Conti.md"
   ]
 }
