@@ -4,7 +4,7 @@ My favourite type of dog is a pug... and, you know what, Pug is my favourite tem
 
 First thing first i did is to research about the Pug template engine becasue this is my first time i heard it. After reasearching from the documentation of the [Pug official](https://pugjs.org/api/getting-started.html), im sure we can do SSTI.
 
-![](../Images/Template-Image-1.png)
+![](Images/Template-Image-1.png)
 
 from the above image we can do SSTI with #{injection}, for the first payload i will test it with using 
 ```Js
